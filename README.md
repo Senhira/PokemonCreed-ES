@@ -1,7 +1,4 @@
-PokemonCreed-ES
-===============
+Some enhancements to the RPG <a href="pokemoncreed.net">pokemoncreed.net</a>. <br />
+<b>All work done by Stalker - #3317.</b>
 
-Some enhancements to the rpg PokemonCreed.net.
-All work done by Stalker - #3317.
-
-I will not condone cheating towards PokemonCreed, and nothing here will violate the rules of PokemonCreed.
+I will <b>not</b> condone cheating towards PokemonCreed, and nothing here will violate the rules of PokemonCreed.
